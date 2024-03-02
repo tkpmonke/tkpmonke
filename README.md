@@ -4,8 +4,6 @@
 
 - 👯 I’m looking to collaborate on **anything!**
 
-- 👨‍💻 All of my projects are available on my [github](github)
-
 - 📝 I regularly write tweets on [twitter : @tkpmonke](twitter : @tkpmonke)
 
 - 📫 How to reach me **Discord : tkpmonke**
