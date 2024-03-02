@@ -4,7 +4,7 @@
 
 - 👯 I’m looking to collaborate on **anything!**
 
-- 📝 I regularly write tweets on [twitter : @tkpmonke]
+- 📝 I regularly write posts on my Twitter page!
 
 - 📫 How to reach me **Discord : tkpmonke**
 
