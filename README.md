@@ -1,6 +1,6 @@
-<h3 align="center">A passionate frontend developer from America</h3>
+<h3>Software dev from the states</h3>
 
-- 🌱 I’m currently learning **C++**
+- 🌱 I’m currently learning **C++ and C#**
 
 - 👯 I’m looking to collaborate on **anything!**
 
