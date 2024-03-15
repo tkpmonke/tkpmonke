@@ -1,6 +1,6 @@
 <h3>Software dev from the states</h3>
 
-- 🌱 I’m currently learning **C++ and C#**
+- 🌱 I’m currently learning **C++, C#, and HLSL**
 
 - 👯 I’m looking to collaborate on **anything!**
 
