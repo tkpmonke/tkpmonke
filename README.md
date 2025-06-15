@@ -22,7 +22,7 @@
 <table align="center">
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Languages:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=cpp,c,cs,html,css"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=cpp,c,cs,lua,html,css"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Version Control:</td>
