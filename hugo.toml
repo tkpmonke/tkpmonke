@@ -55,8 +55,11 @@ publishDir = 'docs' # workaround for github-pages
     identifier = "about"
     name       = "About"
     url        = "about/"
-#	commented out until i have an actual post
-#  [[menu.main]]
-#    identifier = "posts"
-#    name       = "Posts"
-#    url        = "posts/"
+  [[menu.main]]
+    identifier = "post"
+    name       = "Posts"
+    url        = "posts/"
+  [[menu.main]]
+    identifier = "github"
+    name       = "GitHub"
+    url        = "https://github.com/tkpmonke"

@@ -2,16 +2,29 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://tkpmonke.com/tags/doom/</loc>
+    <lastmod>2025-06-26T04:04:17-04:00</lastmod>
+  </url><url>
+    <loc>https://tkpmonke.com/posts/post_1/</loc>
+    <lastmod>2025-06-26T04:04:17-04:00</lastmod>
+  </url><url>
+    <loc>https://tkpmonke.com/tags/gaming/</loc>
+    <lastmod>2025-06-26T04:04:17-04:00</lastmod>
+  </url><url>
+    <loc>https://tkpmonke.com/tags/</loc>
+    <lastmod>2025-06-26T04:04:17-04:00</lastmod>
+  </url><url>
+    <loc>https://tkpmonke.com/</loc>
+    <lastmod>2025-06-26T04:04:17-04:00</lastmod>
+  </url><url>
     <loc>https://tkpmonke.com/about/</loc>
     <lastmod>2025-06-26T02:55:08-04:00</lastmod>
   </url><url>
-    <loc>https://tkpmonke.com/</loc>
+    <loc>https://tkpmonke.com/posts/</loc>
     <lastmod>2025-06-26T02:55:08-04:00</lastmod>
   </url><url>
     <loc>https://tkpmonke.com/blog/</loc>
   </url><url>
     <loc>https://tkpmonke.com/series/</loc>
-  </url><url>
-    <loc>https://tkpmonke.com/tags/</loc>
   </url>
 </urlset>

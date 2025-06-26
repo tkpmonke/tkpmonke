@@ -1,0 +1,9 @@
+<h2>Recent Posts Debug</h2>
+<ul>
+  {{ $posts := where site.RegularPages "Section" "posts" }}
+  <p>Found {{ len $posts }} posts in 'posts' section.</p>
+
+  {{ range first 10 $posts }}
+    <li>{{ .Title }} ({{ .Date.Format "2006-01-02" }})</li>
+  {{ end }}
+</ul>
