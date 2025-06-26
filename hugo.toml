@@ -24,7 +24,7 @@ publishDir = 'docs' # workaround for github-pages
   enableGlobalLanguageMenu = true
 
   # Metadata mostly used in document's head
-  description = "My new homepage or blog"
+  description = "wow, im an idiot"
   keywords = "homepage, blog"
   images = [""]
 
@@ -55,7 +55,8 @@ publishDir = 'docs' # workaround for github-pages
     identifier = "about"
     name       = "About"
     url        = "about/"
-  [[menu.main]]
-    identifier = "posts"
-    name       = "Posts"
-    url        = "posts/"
+#	commented out until i have an actual post
+#  [[menu.main]]
+#    identifier = "posts"
+#    name       = "Posts"
+#    url        = "posts/"
