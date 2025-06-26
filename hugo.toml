@@ -1,0 +1,61 @@
+baseURL = 'https://tkpmonke.com/'
+languageCode = 'en-us'
+title = 'TKPMonke'
+theme = 'hello-friend-ng'
+contentDir = 'content'
+publishDir = 'docs' # workaround for github-pages
+
+[params]
+  dateform        = "Jun 26, 2025"
+  dateformShort   = "Jun 26"
+  dateformNum     = "2025-06-26"
+  dateformNumTime = "2025-06-26 02:44"
+
+  # Subtitle for home
+  homeSubtitle = "And everything under the sun is in tune, but the sun is eclipsed by the moon."
+
+  # Set disableReadOtherPosts to true in order to hide the links to other posts.
+  disableReadOtherPosts = false
+
+  # Enable sharing buttons, if you like
+  enableSharingButtons = true
+  
+  # Show a global language switcher in the navigation bar
+  enableGlobalLanguageMenu = true
+
+  # Metadata mostly used in document's head
+  description = "My new homepage or blog"
+  keywords = "homepage, blog"
+  images = [""]
+
+[taxonomies]
+    category = "blog"
+    tag      = "tags"
+    series   = "series"
+
+[languages]
+  [languages.en]
+    title = "TKPMonke"
+    keywords = ""
+    copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
+    readOtherPosts = "Read other posts"
+
+    [languages.en.params.logo]
+      logoText = "TKPMonke"
+      logoHomeLink = "/"
+    # or
+    #
+    # path = "/img/your-example-logo.svg"
+    # alt = "Your example logo alt text"
+
+  # And you can even create generic menu
+
+[menu]
+  [[menu.main]]
+    identifier = "about"
+    name       = "About"
+    url        = "about/"
+  [[menu.main]]
+    identifier = "posts"
+    name       = "Posts"
+    url        = "posts/"
