@@ -2,25 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>TKPMonke</title>
-    <link>https://tkpmonke.com/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on TKPMonke</description>
     <generator>Hugo</generator>
     <language>en</language>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
     <lastBuildDate>Thu, 26 Jun 2025 04:04:17 -0400</lastBuildDate>
-    <atom:link href="https://tkpmonke.com/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Doom Eternal Is Peak</title>
-      <link>https://tkpmonke.com/posts/post_1/</link>
+      <link>http://localhost:1313/posts/post_1/</link>
       <pubDate>Thu, 26 Jun 2025 04:04:17 -0400</pubDate>
-      <guid>https://tkpmonke.com/posts/post_1/</guid>
+      <guid>http://localhost:1313/posts/post_1/</guid>
       <description>&lt;h2 id=&#34;doom-eternal-is-awesome&#34;&gt;DOOM Eternal Is Awesome&lt;/h2&gt;&#xA;&lt;p&gt;Thats it, thats all I have to say. I&amp;rsquo;ll prob make another longer blog post elaborating on my claim but it&amp;rsquo;s 4:10am right now and I want sleep.&lt;/p&gt;</description>
     </item>
     <item>
       <title>About</title>
-      <link>https://tkpmonke.com/about/</link>
+      <link>http://localhost:1313/about/</link>
       <pubDate>Thu, 26 Jun 2025 02:55:08 -0400</pubDate>
-      <guid>https://tkpmonke.com/about/</guid>
+      <guid>http://localhost:1313/about/</guid>
       <description>&lt;p&gt;I&amp;rsquo;m TKPMonke, a software developer in C, C++, and Lua. I&amp;rsquo;ve been programming since about 2021.&lt;/p&gt;&#xA;&lt;p&gt;I&amp;rsquo;m a die hard linux user (arch btw) and a FOSS activist.&lt;/p&gt;&#xA;&lt;p&gt;I come from the falling states of America.&lt;/p&gt;&#xA;&lt;table&gt;&#xA;  &lt;thead&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;th&gt;Favorite _?&lt;/th&gt;&#xA;          &lt;th&gt;Answer&lt;/th&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/thead&gt;&#xA;  &lt;tbody&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Favorite Show?&lt;/td&gt;&#xA;          &lt;td&gt;The Boys&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Favorite Game?&lt;/td&gt;&#xA;          &lt;td&gt;DOOM Eternal&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Favorite Food?&lt;/td&gt;&#xA;          &lt;td&gt;All of them&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td&gt;Favorite Color?&lt;/td&gt;&#xA;          &lt;td&gt;Blue&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/tbody&gt;&#xA;&lt;/table&gt;&#xA;&lt;p&gt;To be honest, I don&amp;rsquo;t really know what i&amp;rsquo;ll put on here xD. I&amp;rsquo;ll probably do a variety of things. Some movie/tv show/album reviews every once in a while, mixed with rants about random stuff is probably going to be the majority.&lt;/p&gt;</description>
     </item>
   </channel>
