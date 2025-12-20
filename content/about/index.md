@@ -19,4 +19,5 @@ I come from the falling states of America.
 
 To be honest, I don't really know what i'll put on here xD. I'll probably do a variety of things. Some movie/tv show/album reviews every once in a while, mixed with rants about random stuff is probably going to be the majority.
 
-You can find me on Discord, as its the social media I use the most. I own a [discord server](https://discord.gg/TqKSD2a2HC) where everyone is welcome :D
+You can find me on Discord, as its the social media I use the most.
+
