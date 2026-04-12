@@ -6,6 +6,12 @@
 
 ------
 
+<p>
+yo im tkpmonke. im mainly a c/c++ programmer, but i do things in godot occasionally.
+
+im currently working on a game engine called SiliEngine, that is closed source at the moment.
+</p>
+
 <div align="center">
   <a href="https://github.com/tkpmonke">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=tkpmonke&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="tkpmonke"/>
