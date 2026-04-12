@@ -9,7 +9,7 @@
 <p>
 yo im tkpmonke. im mainly a c/c++ programmer, but i do things in godot occasionally.
 
-im currently working on a game engine called SiliEngine, that is closed source at the moment.
+im currently working on a game engine called SiliEngine, but it is closed source at the moment.
 </p>
 
 <div align="center">
